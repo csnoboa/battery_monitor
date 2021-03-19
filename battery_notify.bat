@@ -1,0 +1,1 @@
+python C:\scr\python\main.py
