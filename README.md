@@ -16,9 +16,13 @@ Put the "battery_monitor.py", "battery_monitor.bat" and "config.json" in somewhe
 
 # 3- Configure the parameters (Optional)
 Alter the config.json for the numbers you would like:
+
   "min_battery" : below this percentage you will be notified to place the notebook to charge,
+  
   "max_battery" : above this percentage, you will be notified to remove the charger from the notebook,
+  
   "time_check" : time interval (in seconds) that the program will check the battery percentage
+  
 
 # 4- Create a shortcut
 Create a Shortcut of the "battery_monitor.bat": 
