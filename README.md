@@ -23,8 +23,9 @@ Alter the config.json for the numbers you would like:
 # 4- Create a shortcut
 Create a Shortcut of the "battery_monitor.bat": 
 
-Right-click on the "battery_monitor.bat" file, and select "Create Shortcut"
-[]
+Right-click on the "battery_monitor.bat" file, and select "Create Shortcut":
+
+![](images/create_shortcut.png)
 
 # 5- Put it to run every time you turn on the computer
 
@@ -35,7 +36,9 @@ For do this, you need to put the Shortcut in the folder:
 # 6- Configure to run hidden (Optional)
 
 Open the Properties from the Shortcut:
-[]
+
+![](images/Properties.png)
 
 Go to "General" and check the checkbox "Hidden":
-[]
+
+![](images/Hidden.png)
