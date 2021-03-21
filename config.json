@@ -1,0 +1,5 @@
+{
+    "min_battery" : 35,
+    "max_battery" : 80,
+    "time_check" : 60
+  }
