@@ -1,1 +1,0 @@
-python C:\scr\python\battery_monitor\battery_monitor.py
